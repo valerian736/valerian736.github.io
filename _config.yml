@@ -15,9 +15,7 @@ title: Valerian_Tenedy's Portfolio # This is what shows up in the tab of the bro
 name: Valerian Shean Tenedy
 headline: Computer engineering student
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi there, you can call me val. i am a computer engineering student heavily interested in robotics, electronics, PCB design and embedded systems.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
