@@ -1,16 +1,17 @@
 ---
 layout: post
-title: test 123
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: black dragon
+description:  developing a esp32 based board for robots , that has built in stepdown, motor drivers, and ESP32.
+    This board is intended for uses on robots with mechanum wheels with built in motor drivers and powered by a 2S - 4s lipo batteries.
+    This board has been used in several projects that involves mechanum wheels i.e. the surveilance bot with built in camera module made from esp32 cam.
+
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - PCB design
+  - Circuit design
+  - ESP32 microcontroller
+  - Control Algorithm 
+  - Soldering
+
 
 main-image: /project2.jpg
 ---

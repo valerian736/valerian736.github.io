@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Draupnir
+description:  IOT device based on esp32 with a screen and a navigation switch. This is intended to be used with a modified marauder firmware. This device also has an SD card slot for starage and connections for a GPS module. The device's small size is perfect for potable IOT use cases. 
+
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - IOT
+  - PCB design
+  - Circuit design
+  - ESP32 microcontroller
+  - Soldering
 
 main-image: /project2.jpg
 ---
@@ -104,8 +102,8 @@ console.log(x);
 
 ## Adding table 
 
-| Header 1 | Header 2 |
-|----------|----------|
+| Header 1     | Header 2     |
+| ------------ | ------------ |
 | Row 1, Col 1 | Row 1, Col 2 |
 | Row 2, Col 1 | Row 2, Col 2 |
 
