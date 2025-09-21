@@ -12,5 +12,5 @@ skills:
 main-image: /project.jpg
 ---
 
-# This is another demo
+
 
