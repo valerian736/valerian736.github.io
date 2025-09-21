@@ -13,7 +13,7 @@ skills:
   - Soldering
 
 
-main-image: /project.jpg
+main-image: /BlackDragon.png
 ---
 
 ---
