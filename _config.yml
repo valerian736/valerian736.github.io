@@ -68,6 +68,21 @@ skills:
     - baremetal AVR 
     - machine learning
     - Tensorflow
+  - category: Programming Languages
+    tools:
+    - C
+    - C++
+    - Python
+    - MATLAB
+    - HTML/CSS
+    - JavaScript
+  - category: Other Tools
+    tools:
+    - Git/GitHub
+    - Linux (Ubuntu)
+    - VS Code
+    - Microsoft Office
+    - Google Workspace
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.

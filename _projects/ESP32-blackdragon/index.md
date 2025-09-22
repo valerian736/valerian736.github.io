@@ -11,6 +11,7 @@ skills:
   - ESP32 microcontroller
   - Control Algorithm 
   - Soldering
+  
 
 
 main-image: /BlackDragon.png
