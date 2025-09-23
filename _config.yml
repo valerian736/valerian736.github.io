@@ -15,8 +15,10 @@ title: Valerian_Tenedy's Portfolio # This is what shows up in the tab of the bro
 name: Valerian Shean Tenedy
 headline: Computer engineering student
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Hi there, you can call me val. i am a computer engineering student and i like to make stuff. i am passionate about robotics, electronics, PCB design and embedded systems.
-
+  Hello there, you can call me Val. 
+  I am a dedicated computer engineering student with a strong passion for robotics, electronics, PCB design, and embedded systems. 
+  I am committed to continuous learning and actively seek opportunities to expand my knowledge and skills within the engineering field. 
+  Whether working independently or as part of a team, I am adaptable and strive to deliver high-quality results.
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
@@ -57,10 +59,9 @@ skills:
     - Breadboarding for circuit testing 
   - category: PCB Design
     tools:
-    - Altium Designer
+    - KiCad 
+    - EasyEDA
     - Altium
-    - EasyEda 
-    - KiCad
   - category: Software
     tools:
     - Arduino framework
@@ -74,8 +75,7 @@ skills:
     - C++
     - Python
     - MATLAB
-    - HTML/CSS
-    - JavaScript
+    - DART
   - category: Other Tools
     tools:
     - Git/GitHub
