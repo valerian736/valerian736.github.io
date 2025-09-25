@@ -67,7 +67,6 @@ skills:
     - Arduino framework
     - ESP idf
     - baremetal AVR 
-    - machine learning
     - Tensorflow
   - category: Programming Languages
     tools:
@@ -76,6 +75,7 @@ skills:
     - Python
     - MATLAB
     - DART
+    - VHDL
   - category: Other Tools
     tools:
     - Git/GitHub
