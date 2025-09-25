@@ -9,7 +9,7 @@ skills:
   - Circuit design
   - Soldering
 
-main-image: /draupnir.png
+main-image: /main.png
 ---
 
 
