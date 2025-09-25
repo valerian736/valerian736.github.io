@@ -12,7 +12,7 @@ skills:
   - platformio
   - arduino
 
-main-image: /project.jpg
+main-image: /main.png
 ---
 
 
