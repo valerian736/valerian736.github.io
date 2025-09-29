@@ -27,7 +27,7 @@ main-image: /main.png
 
 ---
 ## user interface 
-![control panel](control.png "Robot control panel")
+![control panel](./control.png "Robot control panel")
 
 From the control panel the user is able to teleoperate the robot from a distance and view the realtime video transmission from the camera. 
 
