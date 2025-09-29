@@ -62,7 +62,7 @@ skills:
     - KiCad 
     - EasyEDA
     - Altium
-  - category: Software
+  - category: frameworks
     tools:
     - Arduino framework
     - ESP idf
