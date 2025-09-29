@@ -13,6 +13,7 @@ skills:
   - arduino
 
 main-image: /main.png
+
 ---
 
 
@@ -23,4 +24,23 @@ main-image: /main.png
 - Designed the mechanical chassis and electronics hardware.
 - Implemented a camera feed system for real-time video transmission.
 
+
+---
+## user interface 
+![control panel](control.png "Robot control panel")
+
+From the control panel the user is able to teleoperate the robot from a distance and view the realtime video transmission from the camera. 
+
+---
+##  Hardware 
+
+- **custom esp32 board** 
+- **3s lipo battery**
+- **esp32-cam**
+- **motor drivers** 
+- **motors** 
+- **mechanum wheels** 
+
+
+---
 
