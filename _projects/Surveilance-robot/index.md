@@ -15,7 +15,7 @@ skills:
 main-image: /main.png
 
 ---
-
+---
 
 ## responsibilities
 - Designed the user interface to control the robot.

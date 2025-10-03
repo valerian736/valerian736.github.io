@@ -20,6 +20,8 @@ main-image: /main.png
 This project implements a crash detection and emergency alert system using AVR microcontroller.  
 It measures sudden acceleration changes using an MPU6050 accelerometer, retrieves location data from a GPS module (NEO-6M), and sends an SMS alert with a Google Maps link via the SIM800L GSM module.
 
+---
+
 ## responsibilities
 - Developed a crash detection device using Arduino Nano, MPU6050 IMU, GPS NEO-6M, and SIM800L GSM module.
 - Implemented real-time accident detection algorithms based on accelerometer and gyroscope data.
