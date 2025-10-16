@@ -30,9 +30,20 @@ main-image: /main.png
 {% include image-gallery.html images="control.png" height="400" %}
 
 From the control panel the user is able to teleoperate the robot from a distance and view the realtime video transmission from the camera. 
+---
+##  Hardware 
+{% include image-gallery.html images="PCB.jpg" height="400" %}
+
+- **custom esp32 board** 
+- **3s lipo battery**
+- **esp32-cam**
+- **motor drivers** 
+- **motors** 
+- **mechanum wheels** 
 
 ---
 ##  Hardware 
+{% include image-gallery.html images="PCB.jpg" height="400" %}
 
 - **custom esp32 board** 
 - **3s lipo battery**
@@ -43,4 +54,6 @@ From the control panel the user is able to teleoperate the robot from a distance
 
 
 ---
+
+
 
