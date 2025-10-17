@@ -13,5 +13,30 @@ skills:
 main-image: /draupnir.png
 ---
 
+---
+##  Schematic 
+{% include image-gallery.html images="Schematic.jpg" height="400" %}
 
+- **custom esp32 board** 
+- **3s lipo battery**
+- **esp32-cam**
+- **motor drivers** 
+- **motors** 
+- **mechanum wheels** 
+
+
+---
+
+##  PCB 
+{% include image-gallery.html images="PCB.png" height="400" %}
+
+- **custom esp32 board** 
+- **3s lipo battery**
+- **esp32-cam**
+- **motor drivers** 
+- **motors** 
+- **mechanum wheels** 
+
+
+---
 
