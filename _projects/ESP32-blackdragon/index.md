@@ -20,7 +20,7 @@ main-image: /BlackDragon.png
 ##  Schematic 
 {% include image-gallery.html images="Schematic.jpg" height="400" %}
 
-<div style="text-align: center">
+<div style="text-align: justify">
 The schematic shown above represents the ESP32 BlackDragon Board, a custom-designed control system that integrates power management, motor control, and programming interfaces into a single compact platform. The core of the board is the ESP32 microcontroller, a high-performance, dual-core processor that manages all primary operations, including motor actuation, signal processing, and data communication.
 
 This board is engineered to efficiently control multiple DC motors, enabling precise movement and direction control for robotics or automation projects. The ESP32 communicates directly with dedicated motor driver circuits, ensuring stable current delivery and smooth motor performance.
