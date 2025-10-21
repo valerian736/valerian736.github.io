@@ -1,7 +1,8 @@
 ---
 layout: post
 title: CrashAlert
-description:  IOT device based on esp32 with a screen and a navigation switch. This is intended to be used with a modified marauder firmware. This device also has an SD card slot for starage and connections for a GPS module. The device's small size is perfect to run potable marauder firmware. 
+description:  This project implements a crash detection and emergency alert system using AVR microcontroller.  
+It measures sudden acceleration changes using an MPU6050 accelerometer, retrieves location data from a GPS module (NEO-6M), and sends an SMS alert with a Google Maps link via the SIM800L GSM module. 
 
 skills: 
   - Baremetal AVR
@@ -15,12 +16,7 @@ main-image: /main.png
 
 
 ---
-#  Crash Detection & Alert System (Arduino + SIM800L + GPS NEO-6M + MPU6050)
 
-This project implements a crash detection and emergency alert system using AVR microcontroller.  
-It measures sudden acceleration changes using an MPU6050 accelerometer, retrieves location data from a GPS module (NEO-6M), and sends an SMS alert with a Google Maps link via the SIM800L GSM module.
-
----
 
 ## responsibilities
 - Developed a crash detection device using Arduino Nano, MPU6050 IMU, GPS NEO-6M, and SIM800L GSM module.

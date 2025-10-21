@@ -17,6 +17,7 @@ main-image: /draupnir.png
 ##  hardware 
 {% include image-gallery.html images="hardware.png" height="400" %}
 
+github page: 
 - **custom esp32 board** 
 - **3s lipo battery**
 - **esp32-cam**
