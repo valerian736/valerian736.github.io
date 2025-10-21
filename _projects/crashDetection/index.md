@@ -1,8 +1,7 @@
 ---
 layout: post
 title: CrashAlert
-description:  This project implements a crash detection and emergency alert system using AVR microcontroller.  
-It measures sudden acceleration changes using an MPU6050 accelerometer, retrieves location data from a GPS module (NEO-6M), and sends an SMS alert with a Google Maps link via the SIM800L GSM module. 
+description:  CrashAlert is a device that helps to contacts first responders when a car accident occured. With this device, the responders can be notified without the victim calling for help. This device also has GPS and battery to ensure the crash location can be pinpointed accurrately.
 
 skills: 
   - Baremetal AVR
@@ -16,7 +15,12 @@ main-image: /main.png
 
 
 ---
+#  Crash Detection & Alert System (Arduino + SIM800L + GPS NEO-6M + MPU6050)
 
+This project implements a crash detection and emergency alert system using AVR microcontroller.  
+It measures sudden acceleration changes using an MPU6050 accelerometer, retrieves location data from a GPS module (NEO-6M), and sends an SMS alert with a Google Maps link via the SIM800L GSM module.
+
+---
 
 ## responsibilities
 - Developed a crash detection device using Arduino Nano, MPU6050 IMU, GPS NEO-6M, and SIM800L GSM module.
