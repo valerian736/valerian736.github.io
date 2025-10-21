@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CrashAlert
-description:  CrashAlert is a device that helps to contacts first responders when a car accident occured. With this device, the responders can be notified without the victim calling for help. This device also has GPS and battery to ensure the crash location can be pinpointed accurrately.
+description:  CrashAlert is an innovative safety device designed to automatically contact first responders in the event of a car accident. The system eliminates the need for the victim to call for help by instantly transmitting an emergency alert once a crash is detected. Equipped with a built-in GPS module, CrashAlert accurately pinpoints the location of the incident, ensuring that responders can reach the scene as quickly as possible. The device also features an independent battery system to maintain reliable operation even if the vehicle’s power supply is disrupted. This project integrates of sensors, AVR microcontroller, and GPS communication to enhance road safety and emergency response efficiency.
 
 skills: 
   - Baremetal AVR
