@@ -19,11 +19,9 @@ main-image: /draupnir.png
 
 github page: 
 - **custom esp32 board** 
-- **3s lipo battery**
-- **esp32-cam**
-- **motor drivers** 
-- **motors** 
-- **mechanum wheels** 
+- **lipo battery**
+- **esp32**
+
 
 
 ---
