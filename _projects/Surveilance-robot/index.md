@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Survbot
-description: Designed a survailance robot with mechanum wheels for surveilance purposes. this include the PCB, CAD design, camera modules and the programming of the robot. 
+description: SurvBot is an autonomous surveillance robot equipped with mecanum wheels, enabling omnidirectional movement and precise maneuverability in various environments. The system integrates an ESP32 microcontroller that serves as the central processing unit, managing both locomotion control and real-time video transmission. A camera module is embedded into the robot, allowing it to stream live video footage to a web-based interface hosted directly on the ESP32. This design eliminates the need for external servers, providing an efficient and compact surveillance solution suitable for indoor monitoring and security applications.  
 skills: 
   - fusion360
   - Electronics 
@@ -30,16 +30,6 @@ main-image: /main.png
 {% include image-gallery.html images="control.png" height="400" %}
 
 From the control panel the user is able to teleoperate the robot from a distance and view the realtime video transmission from the camera. 
----
-##  Hardware 
-{% include image-gallery.html images="PCB.jpg" height="400" %}
-
-- **custom esp32 board** 
-- **3s lipo battery**
-- **esp32-cam**
-- **motor drivers** 
-- **motors** 
-- **mechanum wheels** 
 
 ---
 ##  Hardware 
@@ -52,8 +42,8 @@ From the control panel the user is able to teleoperate the robot from a distance
 - **motors** 
 - **mechanum wheels** 
 
-
 ---
+
 
 
 
