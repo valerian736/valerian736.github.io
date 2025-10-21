@@ -29,18 +29,13 @@ main-image: /main.png
 ## user interface 
 {% include image-gallery.html images="control.png" height="400" %}
 
-From the control panel the user is able to teleoperate the robot from a distance and view the realtime video transmission from the camera. 
+From the control panel, the user is able to teleoperate the robot from a distance and view the real-time video transmission from the camera, enabling seamless remote operation and precise monitoring of the robot’s environment.
 
 ---
 ##  Hardware 
-{% include image-gallery.html images="PCB.jpg" height="400" %}
+{% include image-gallery.html images="cad.png" height="400" %}
 
-- **custom esp32 board** 
-- **3s lipo battery**
-- **esp32-cam**
-- **motor drivers** 
-- **motors** 
-- **mechanum wheels** 
+The body of the robot is designed using fusion360.
 
 ---
 
