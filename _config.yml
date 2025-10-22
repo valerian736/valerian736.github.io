@@ -50,13 +50,6 @@ skills:
     - Onshape
     - Fusion 360 
     - Solidworks
-  - category: Prototyping
-    tools:
-    - FDM
-    - ESP32
-    - Arduino 
-    - Raspberry Pi
-    - Breadboarding for circuit testing 
   - category: PCB Design
     tools:
     - KiCad 
